@@ -16,7 +16,7 @@ This is the frontend UI for Codenex Images — an app that lets users generate a
 
 This UI is paired with a backend service that proxies Gemini, persists data, and enforces generation limits:
 
-- Backend repository: [(https://github.com/Nikunj2003/codenex-images-api](https://github.com/Nikunj2003/codenex-images-api)
+- Backend repository: [https://github.com/Nikunj2003/codenex-images-api](https://github.com/Nikunj2003/codenex-images-api)
 
 ## Tech Stack
 
