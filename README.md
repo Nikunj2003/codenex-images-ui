@@ -1,16 +1,14 @@
-<div align="center">
-	<h1>codenex-images (UI)</h1>
-	<p>AI-powered image generation and editing UI built with React, Vite, Tailwind, and Auth0 — deployed on Vercel.</p>
-  
-	<p>
-		<a href="https://vercel.com/"> <img alt="Vercel" src="https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel" /> </a>
-		<a href="https://react.dev/"> <img alt="React" src="https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white" /> </a>
-		<a href="https://vitejs.dev/"> <img alt="Vite" src="https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white" /> </a>
-		<a href="https://tailwindcss.com/"> <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss&logoColor=white" /> </a>
-		<a href="https://auth0.com/"> <img alt="Auth0" src="https://img.shields.io/badge/Auth0-Authentication-orange?logo=auth0&logoColor=white" /> </a>
-		<a href="https://www.typescriptlang.org/"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" /> </a>
-	</p>
-</div>
+
+# codenex-images (UI)
+
+AI-powered image generation and editing UI built with React, Vite, Tailwind, and Auth0 — deployed on Vercel.
+
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
+[![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Auth0](https://img.shields.io/badge/Auth0-Authentication-orange?logo=auth0&logoColor=white)](https://auth0.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## Overview
 
