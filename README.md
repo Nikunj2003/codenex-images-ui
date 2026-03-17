@@ -58,7 +58,7 @@ Copy `.env.example` to `.env.local` and fill in values:
 VITE_AUTH0_DOMAIN=your-tenant.us.auth0.com
 VITE_AUTH0_CLIENT_ID=your_auth0_spa_client_id
 VITE_AUTH0_AUDIENCE=your_auth0_api_audience
-VITE_AUTH0_REDIRECT_URI=http://localhost:5173
+VITE_AUTH0_REDIRECT_URI=http://localhost:8080
 VITE_API_URL=http://localhost:3000
 ```
 
@@ -68,7 +68,18 @@ VITE_API_URL=http://localhost:3000
 npm run dev
 ```
 
-The app will be available at http://localhost:5173.
+The app will be available at http://localhost:8080.
+
+## Docker
+A `Dockerfile` is included for containerized local runs.
+
+Run only the UI from this repo:
+
+```bash
+docker compose up --build
+```
+
+For the full stack, use the umbrella repo root compose setup.
 
 ## Available Scripts
 
